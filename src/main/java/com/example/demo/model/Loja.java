@@ -29,6 +29,7 @@ public class Loja {
 	public String nome;
 	public int numero_funcionarios;
 	public int area;
+	
 	public Long getId() {
 		return id;
 	}
